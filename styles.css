@@ -28,6 +28,7 @@ body {
     padding: 0.6rem;
     overflow: hidden;
     position: fixed;
+    z-index: 10;
 }
   
 .navbar img {
@@ -42,7 +43,7 @@ body {
     padding-right: 100px; /* Space between buttons */
     flex-grow: 1;
     justify-content: center;
-    z-index: 10;
+    
 }
   
 .navigate a{
