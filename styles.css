@@ -161,6 +161,10 @@ body {
     margin: 20px 0;
 }
 
+.location h2{
+    color: #34c5ee;
+}
+
 .location iframe {
     width: 90%;
     border: 0;
